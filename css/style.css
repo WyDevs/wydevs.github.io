@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+#logo {
+  text-align: center;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
